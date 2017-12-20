@@ -19,7 +19,7 @@ Current node participation will only proceed with the applicant.
 * Official Node  : 2018.03
 
 ## Private node transaction site
-* BurnCoin Scan : https://bscan.io ( 2017/12/09 ~ )
+* BurnCoin Scan : https://bscan.io ( 2017/12/27 ~ )
 
 ## Links
 * BurnCoin Scan : https://bscan.io

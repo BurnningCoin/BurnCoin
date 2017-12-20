@@ -5,7 +5,7 @@ We're developing and we're currently testing a private test.
 
 If you prefer to access a private node test and source first, register for participation.
 
-* register : https://bscan.io/register ( 2017/12/09 ~ )
+* register : https://bscan.io/register ( 2017/12/27 ~ )
 
 ## WARNING
 Testing private node. Full source disclosure proceeds from testing the watchdog node and proceeds as part of the participant node testing.

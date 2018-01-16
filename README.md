@@ -24,4 +24,3 @@ Current node participation will only proceed with the applicant.
 ## Links
 * BurnCoin Scan : https://bscan.io ( 2018.01.25 )
 * Website: http://burncoin.io 
-* TODO-List : https://trello.com/b/rNFApg1C/burncoin ( 2018.01.30 )
